@@ -1,5 +1,3 @@
-# Racx Studio
-![alt text](https://github.com/racmathafidz/racxstudio/blob/master/src/assets/images/screely.png)
 
 ### About
 A software house profile website built with ReactJS and TailwindCSS:computer:

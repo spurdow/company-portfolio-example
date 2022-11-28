@@ -11,8 +11,8 @@ export default function BrandIcon() {
       href="/"
     >
       <p className="text-theme-blue text-4xl">
-        Racx
-        <span className="text-theme-purple">studio</span>
+        Company ABC
+        <span className="text-theme-purple">Studio</span>
       </p>
     </Button>
   );

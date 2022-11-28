@@ -24,7 +24,7 @@ export default function DiscussForm(props) {
 
     const templateParams = {
       from_name: `${name} - ${company} ( ${phone} - ${email} )`,
-      to_name: 'Racxstudio',
+      to_name: 'Company ABC Studio',
       message: projectIdea,
     };
 
